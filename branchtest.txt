@@ -1,0 +1,8 @@
+测试分支问题，步骤：
+1.现在本地创建一个本地分支，
+2.在本地分支上工作，
+3.使用该分支先commit本地修改到本地仓库
+4.建立远程分支名，然后用git push
+如：
+git remote add yqq https://github.com/newbieyqq/shopping.git
+git push -u master yqq
